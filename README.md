@@ -18,6 +18,7 @@ This project explores the Airbnb market in New York City using real data from 20
 - Understand Airbnb prices in different neighborhoods.
 - Explore types of rooms available.
 - Analyze review activity for listings.
+- Mergin datasets
 - Remove unnecessary outliers from the data.
 - Analyze text data using BERT (NLP).
 - Cluster the data to find patterns.
